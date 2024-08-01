@@ -1,5 +1,5 @@
 {
-
+"showstar":true,
   "facebookopen":{
     "status":true
   },
